@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/coinTheme/static/js/main.675db0db.js",
+    "index.html": "/coinTheme/index.html",
+    "main.675db0db.js.map": "/coinTheme/static/js/main.675db0db.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.675db0db.js"
+  ]
+}
