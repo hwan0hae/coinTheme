@@ -261,7 +261,7 @@ function Coin() {
       </Helmet>
       <Toggle onClick={toggleDarkAtom}>&#127769;</Toggle>
       <Back>
-        <Link to="../">&larr;</Link>
+        <Link to="../coinTheme">&larr;</Link>
       </Back>
 
       <Header>
